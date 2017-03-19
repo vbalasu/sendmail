@@ -1,0 +1,7 @@
+<email>
+<to name="Vijay Balasubramaniam">vbalasu@gmail.com</to>
+<subject>Hello from email.exe</subject>
+<body><![CDATA[
+Hello <strong>World</strong>
+]]></body>
+</email>
